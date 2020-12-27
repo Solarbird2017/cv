@@ -13,7 +13,7 @@ name                     : &name "Xudong(Nick) Zhang"
 description              : &description "PhD Candidate at CUNY"
 url                      : https://solarbird2017.github.io/xudongzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "solarbird2017.github.io/academicpages.github.io"
+repository               : "solarbird2017.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
