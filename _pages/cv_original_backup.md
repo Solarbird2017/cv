@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# <i class="fa fa-fw fa-file "></i> Curriculum Vitae #
-
 
 [Click here to view my up-to-date curriculum vitae (CV) [PDF]](http://Solarbird2017.github.io/xudongzhang.github.io/files/cv2021.pdf)
 
