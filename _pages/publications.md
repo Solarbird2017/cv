@@ -19,6 +19,15 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 <br clear="left">
 </p>
 
+<p>
+<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
+<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Stretchable impedance sensor for mammalian cell proliferation measurements</a></b><br> 
+<b>Xudong Zhang, William Wang, Fang Li, and Ioana Voiculescu.</b> <i>Lab on a Chip (Impact Factor: 7.1)</i>.<br>
+[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Paper</a>]
+<br clear="left">
+</p>
+
 
 
 
