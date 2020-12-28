@@ -1,15 +1,15 @@
 ---
-title: "Inter-Networking Technologies"
+title: "Object Oriented Programming in Java"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "New York City College of Technology, Department of Computer Engineering Technology"
+venue: "Queens College, Department of Computer Science"
 date: 09/2018 - 09/2019
 location: "New York, USA"
 ---
 
 
-CET 4773  (Inter-Networking Technologies)
+CSCI 212 (Object Oriented Programming in Java)
 
 Heading 1
 ======

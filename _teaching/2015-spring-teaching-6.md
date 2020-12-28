@@ -1,15 +1,15 @@
 ---
-title: "Mechatronics"
+title: "Object Oriented Programming in Java"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "City University of New York, Department of Mechanical Engineering"
+venue: "Queens College, Department of Computer Science"
 date: 09/2018 - 09/2019
 location: "New York, USA"
 ---
 
 
-CSCI 311 (Mechatronics )
+CSCI 212 (Object Oriented Programming in Java)
 
 Heading 1
 ======
