@@ -32,7 +32,7 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 <a href="">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
 <b><a href="">Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters (Accepted)</a></b><br> 
-<b>Xudong Zhang, Liang Zhao, Wei Zhong, AND Feng Gu.</b> <i>IEEE Access (Impact Factor: 3.745)</i>.<br>
+<b>Xudong Zhang, Liang Zhao, Wei Zhong, and Feng Gu.</b> <i>IEEE Access (Impact Factor: 3.745)</i>.<br>
 [<a href="">Paper</a>]
 <br clear="left">
 </p>
