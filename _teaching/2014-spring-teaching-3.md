@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "New York City College of Technology, Department of Computer Engineering Technology"
-date: 09/2018 - 09/2019
+date: 01/2014 - 05/2014
 location: "New York, USA"
 ---
 

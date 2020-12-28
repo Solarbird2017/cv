@@ -1,15 +1,15 @@
 ---
-title: "Mechatronics"
+title: "Micro/Nano Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "City University of New York, Department of Mechanical Engineering"
-date: 09/2018 - 09/2019
+date: 09/2011 - 05/2014
 location: "New York, USA"
 ---
 
 
-CSCI 311 (Mechatronics )
+ME463 (Micro/Nano Technology)
 
 Heading 1
 ======
