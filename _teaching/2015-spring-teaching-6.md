@@ -1,5 +1,5 @@
 ---
-title: "Object Oriented Programming in Java"
+title: "Introduction to Algorithmic Problem Solving "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -9,7 +9,7 @@ location: "New York, USA"
 ---
 
 
-CSCI 212 (Object Oriented Programming in Java)
+CSCI 111 (Introduction to Algorithmic Problem Solving )
 
 Heading 1
 ======
