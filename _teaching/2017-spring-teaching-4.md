@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Queens College, Department of Computer Science"
-date: 09/2018 - 09/2019
+date: 09/2017 - 09/2018
 location: "New York, USA"
 ---
 
