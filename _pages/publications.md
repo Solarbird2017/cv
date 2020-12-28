@@ -11,7 +11,7 @@ author_profile: true
 
 <p>
 <a href="http://Solarbird2017.github.io/xudongzhang.github.io/publications/model">
-<img src="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
 <b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/publications/model">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
 <b>Xudong Zhang et. al.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)</i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]
