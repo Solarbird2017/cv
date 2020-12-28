@@ -10,9 +10,9 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
-<a href="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/publications/model">
+<a href="https://github.com/Solarbird2017/xudongzhang.github.io/publications/model">
 <img src="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/MOANA">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
+<b><a href="https://github.com/Solarbird2017/xudongzhang.github.io/publications/model">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
 <b>Xudong Zhang et. al.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.100 )</i>.<br>
 [<a href="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/files/model_2017.pdf">Paper</a>]
 <!--[<a href="https://motchallenge.net/vis/PETS09-S2L2/MOANA">Demo1</a>]-->
