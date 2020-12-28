@@ -10,6 +10,15 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
+<a href="">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
+<b><a href="">Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters (Accepted)</a></b><br> 
+<b>Xudong Zhang, Liang Zhao, Wei Zhong, and Feng Gu.</b> <i>IEEE Access (Impact Factor: 3.745)</i>.<br>
+[<a href="">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="28" align="left"/></a>
 <b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
@@ -28,14 +37,7 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 <br clear="left">
 </p>
 
-<p>
-<a href="">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
-<b><a href="">Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters (Accepted)</a></b><br> 
-<b>Xudong Zhang, Liang Zhao, Wei Zhong, and Feng Gu.</b> <i>IEEE Access (Impact Factor: 3.745)</i>.<br>
-[<a href="">Paper</a>]
-<br clear="left">
-</p>
+
 
 
 
@@ -64,6 +66,10 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
 <br clear="left">
 </p>
+
+
+
+
 
 
 
