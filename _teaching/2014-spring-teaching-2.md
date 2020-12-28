@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "City University of New York, Department of Mechanical Engineering"
-date: 09/2011 - 05/2014
+date: 09/2013 - 05/2016
 location: "New York, USA"
 ---
 
