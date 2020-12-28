@@ -9,7 +9,7 @@ location: "New York, USA"
 ---
 
 
-CSCI 111 (Introduction to Algorithmic Problem Solving )
+CSCI 111 (Introduction to Algorithmic Problem Solving)
 
 Heading 1
 ======

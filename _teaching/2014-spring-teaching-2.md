@@ -9,7 +9,7 @@ location: "New York, USA"
 ---
 
 
-CSCI 311 (Mechatronics )
+CSCI 311 (Mechatronics)
 
 Heading 1
 ======
