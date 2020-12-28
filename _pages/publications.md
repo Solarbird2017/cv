@@ -37,14 +37,14 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 <p>
-<!--<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">-->
+<a href="">
 
-<a img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
 
 <b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">(Under preparation) A leverage on real-time multi-object tracking</a></b><br> 
 
 <b>Xudong Zhang et. al.</b> <i>IJCAI 2021</i>.<br>
-<!--[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]-->
+[<a href="">Paper</a>]
 <br clear="left">
 </p>
 
@@ -54,7 +54,7 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 <p>
 <a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="28" align="left"/></a>
 <b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
 <b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen.</b> <i>IJCAI 2019 </i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
