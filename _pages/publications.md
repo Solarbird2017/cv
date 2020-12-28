@@ -10,12 +10,13 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/MOANA"><img src="https://zhengthomastang.github.io/images/MOANA_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/MOANA">MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D</a></b><br> 
-<b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Access</i>.<br>
-[<a href="https://ieeexplore.ieee.org/document/8660675">Paper</a>]
-[<a href="https://motchallenge.net/vis/PETS09-S2L2/MOANA">Demo1</a>]
-[<a href="https://motchallenge.net/vis/AVG-TownCentre/MOANA">Demo2</a>]
+<a href="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/publications/model">
+<img src="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/MOANA">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
+<b>Xudong Zhang et. al.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.100 )</i>.<br>
+[<a href="https://github.com/Solarbird2017/xudongzhang.github.io/blob/master/files/model_2017.pdf">Paper</a>]
+<!--[<a href="https://motchallenge.net/vis/PETS09-S2L2/MOANA">Demo1</a>]-->
+<!--[<a href="https://motchallenge.net/vis/AVG-TownCentre/MOANA">Demo2</a>]-->
 <br clear="left">
 </p>
 
@@ -28,7 +29,8 @@ author_profile: true
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/OnlineLearnICT"><img src="https://zhengthomastang.github.io/images/OnlineLearnICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<a href="http://zhengthomastang.github.io/publications/OnlineLearnICT">
+<img src="https://zhengthomastang.github.io/images/OnlineLearnICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/OnlineLearnICT">Online-Learning-Based Human Tracking Across Non-Overlapping Cameras</a></b><br> 
 Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.<br>
 [<a href="https://ieeexplore.ieee.org/document/7932896">Paper</a>]
@@ -160,16 +162,5 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. <i>2017 IEEE 
 [<a href="http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_craze.pdf">Craze</a>]
 [<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_poster.pdf">Poster</a>]
-<br clear="left">
-</p>
-
-## Dissertation ##
-
-<p>
-<a href="http://zhengthomastang.github.io/publications/Dissertation"><img src="https://zhengthomastang.github.io/images/Dissertation_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/Dissertation">Robust Video Object Tracking via Camera Self-Calibration</a></b><br> 
-<b>Zheng Tang</b>. Ph.D. dissertation. University of Washington, Seattle, WA. 2019.<br>
-[<a href="http://hdl.handle.net/1773/43951">Paper</a>]
-[<a href="http://zhengthomastang.github.io/files/Dissertation_slides.pdf">Slides</a>]
 <br clear="left">
 </p>
