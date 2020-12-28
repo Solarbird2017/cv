@@ -22,7 +22,26 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 
+
+
 ## Conference Papers ##
+
+
+<p>
+<!--<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">-->
+
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
+
+<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">(Under preparation) A leverage on real-time multi-object tracking</a></b><br> 
+
+<b>Xudong Zhang et. al.</b> <i>IJCAI 2021</i>.<br>
+<!--[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]-->
+<br clear="left">
+</p>
+
+
+
+
 
 <p>
 <a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
