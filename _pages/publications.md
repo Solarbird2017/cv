@@ -42,6 +42,8 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 
+
+
 ## Conference Papers ##
 
 
@@ -73,57 +75,48 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 
-
-
-
-
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen.</b> <i>IJCAI 2019 </i>.<br>
-[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
+<a href="">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
+<b>Xudong Zhang, </b> <i>IJCAI 2019 </i>.<br>
+[<a href="">Paper</a>]
 <br clear="left">
 </p>
 
 
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen.</b> <i>IJCAI 2019 </i>.<br>
-[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
+<a href="">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
+<b>Xudong Zhang, </b> <i>IJCAI 2019 </i>.<br>
+[<a href="">Paper</a>]
 <br clear="left">
 </p>
-
 
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen.</b> <i>IJCAI 2019 </i>.<br>
-[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
+<a href="">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
+<b>Xudong Zhang, </b> <i>IJCAI 2019 </i>.<br>
+[<a href="">Paper</a>]
 <br clear="left">
 </p>
-
 
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen.</b> <i>IJCAI 2019 </i>.<br>
-[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
+<a href="">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2020.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
+<b>Xudong Zhang, </b> <i>IJCAI 2019 </i>.<br>
+[<a href="">Paper</a>]
 <br clear="left">
 </p>
-
-
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen.</b> <i>IJCAI 2019 </i>.<br>
-[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
+<a href="">
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
+<b>Xudong Zhang, </b> <i>IJCAI 2019 </i>.<br>
+[<a href="">Paper</a>]
 <br clear="left">
 </p>
-
 
