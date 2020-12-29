@@ -70,18 +70,18 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 </p>
 
 <p>
-<a href="">
+<a href="https://ieeexplore.ieee.org/document/8732902">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="">ADAPTIVE PARTICLE ROUTING IN PARALLEL/DISTRIBUTED PARTICLE FILTERS</a></b><br> 
+<b><a href="https://ieeexplore.ieee.org/document/8732902">Adaptive Particle Routing in Parallel/Distributed Particle Filters</a></b><br> 
 <b>Xudong Zhang, Lixin Huang, Evan Ferguson-Hull, and Feng Gu</b> <i>HPC 2017 </i>.<br>
-[<a href="">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
 <br clear="left">
 </p>
 
 <p>
 <a href="">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="">PERFORMANCE ANALYSIS OF PARALLEL/DISTRIBUTED PARTICLE FILTERS</a></b><br> 
+<b><a href="">Performance Analysis of Parallel/Distributed Particle Filters</a></b><br> 
 <b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu</b> <i>TMS 2018 </i>.<br>
 [<a href="">Paper</a>]
 <br clear="left">
