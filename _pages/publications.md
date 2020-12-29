@@ -20,7 +20,7 @@ author_profile: true
 
 <p>
 <a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="28" align="left"/></a>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="36" align="left"/></a>
 <b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
 <b>Xudong Zhang, William Wang, Anis Nurashikin Nordin, Fang Li, Sunghoon Jang, and
 Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)</i>.<br>
@@ -69,20 +69,29 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 <br clear="left">
 </p>
 
-
-
-
-
-
-
 <p>
 <a href="">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, </b> <i>HPC 2019 </i>.<br>
+<img src="" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">ADAPTIVE PARTICLE ROUTING IN PARALLEL/DISTRIBUTED PARTICLE FILTERS</a></b><br> 
+<b>Xudong Zhang, Lixin Huang, Evan Ferguson-Hull, and Feng Gu</b> <i>HPC 2017 </i>.<br>
 [<a href="">Paper</a>]
 <br clear="left">
 </p>
+
+<p>
+<a href="">
+<img src="" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<b><a href="">PERFORMANCE ANALYSIS OF PARALLEL/DISTRIBUTED PARTICLE FILTERS</a></b><br> 
+<b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu</b> <i>TMS 2018 </i>.<br>
+[<a href="">Paper</a>]
+<br clear="left">
+</p>
+
+
+
+
+
+
 
 
 <p>
@@ -111,12 +120,5 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 [<a href="">Paper</a>]
 <br clear="left">
 </p>
-<p>
-<a href="">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, </b> <i>TMS 2018 </i>.<br>
-[<a href="">Paper</a>]
-<br clear="left">
-</p>
+
 
