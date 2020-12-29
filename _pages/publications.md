@@ -111,13 +111,17 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 <br clear="left">
 </p>
 
+
+
 <p>
-<a href="HANDLING THE MISSING DATA PROBLEM IN ELECTRONIC HEALTH RECORDS FOR CANCER PREDICTION">
+<a href="https://ieeexplore.ieee.org/document/9185464">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2020.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="HANDLING THE MISSING DATA PROBLEM IN ELECTRONIC HEALTH RECORDS FOR CANCER PREDICTION">Heuristic Search for Homology Localization Problem and Its Application in Cardiac Trabeculae Reconstruction</a></b><br> 
-<b>Xudong Zhang, </b> <i>MSM 2020 </i>.<br>
-[<a href="HANDLING THE MISSING DATA PROBLEM IN ELECTRONIC HEALTH RECORDS FOR CANCER PREDICTION">Paper</a>]
+<b><a href="https://ieeexplore.ieee.org/document/9185464">HANDLING THE MISSING DATA PROBLEM IN ELECTRONIC HEALTH RECORDS FOR CANCER PREDICTION</a></b><br> 
+<b>Xudong Zhang, Jiehao Xiao, and Feng Gu</b> <i>MSM 2020 </i>.<br>
+[<a href="https://ieeexplore.ieee.org/document/9185464">Paper</a>]
 <br clear="left">
 </p>
+
+
 
 
