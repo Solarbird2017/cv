@@ -19,9 +19,9 @@ author_profile: true
 </p>
 
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">
+<a href="">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 200px;" hspace="36" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
+<b><a href="">The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling</a></b><br> 
 <b>Xudong Zhang, William Wang, Anis Nurashikin Nordin, Fang Li, Sunghoon Jang, and
 Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)</i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]
@@ -29,9 +29,9 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 </p>
 
 <p>
-<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">
+<a href="">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
-<b><a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Stretchable impedance sensor for mammalian cell proliferation measurements</a></b><br> 
+<b><a href="">Stretchable impedance sensor for mammalian cell proliferation measurements</a></b><br> 
 <b>Xudong Zhang, William Wang, Fang Li, and Ioana Voiculescu.</b> <i>Lab on a Chip (Impact Factor: 6.914)</i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Paper</a>]
 <br clear="left">
@@ -71,7 +71,7 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 <p>
 <!--<a href="https://ieeexplore.ieee.org/document/8732902">-->
-<!--<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>-->
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
 <b>Adaptive Particle Routing in Parallel/Distributed Particle Filters</a></b><br> 
 <b>Xudong Zhang, Lixin Huang, Evan Ferguson-Hull, and Feng Gu</b> <i>HPC 2017 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
@@ -80,7 +80,7 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 <p>
 <a href="">
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="62" align="left"/></a>
 <b><a href="">Performance Analysis of Parallel/Distributed Particle Filters</a></b><br> 
 <b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu</b> <i>TMS 2018 </i>.<br>
 [<a href="">Paper</a>]
@@ -89,9 +89,9 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 <p>
-<a href="https://ieeexplore.ieee.org/document/8732902">
+<!--<a href="https://ieeexplore.ieee.org/document/8732902">-->
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b><a href="">ADAPTIVE PARTICLE SAMPLING AND RESAMPLING IN PARALLEL/DISTRIBUTED PARTICLE FILTERS</a></b><br> 
+<!--<b><a href="">Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters</a></b><br> -->
 <b>Xudong Zhang and Feng Gu</b> <i>HPC 2019 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
 <br clear="left">
