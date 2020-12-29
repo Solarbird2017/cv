@@ -85,7 +85,7 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 </p>
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="52px" align="left" width="200" height="300"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="52px" align="left" width="100" height="300"/>
 <font color="#00C5CD">Performance Analysis of Parallel/Distributed Particle Filters.</font> <br>
 <b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu. </b> <i>ICCES 2018 </i>.<br>
 [<a href="https://dl.acm.org/doi/10.1145/3213187.3213192">Paper</a>]
