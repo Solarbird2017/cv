@@ -103,9 +103,14 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 
+
+
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2020.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
-<b><p style="color:rgb(255,0,0);">Handling the Missing Data Problem in Electronic Health Records for Cancer Prediction<br> 
+
+<b><p style="color:rgb(255, 228,196);">Handling the Missing Data Problem in Electronic Health Records for Cancer Prediction<br> 
+
+<font color="color:rgb(255, 228,196)">Handling the Missing Data Problem in Electronic Health Records for Cancer Prediction</font> <br>
 
 <b>Xudong Zhang, Jiehao Xiao, and Feng Gu</b> <i>MSM 2020 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/9185464">Paper</a>]
