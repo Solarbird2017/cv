@@ -80,10 +80,12 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 </p>
 
 
+
+
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b>Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters</a></b><br> 
-<b>Xudong Zhang and Feng Gu</b> <i>HPC 2019 </i>.<br>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
+<font color="#00C5CD">Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters.</font> <br>
+<b>Xudong Zhang and Feng Gu. </b> <i>MSM 2020 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
 <br clear="left">
 </p>
@@ -93,20 +95,20 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 
 
 
+
+
+
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
-<b>Applying Support Vector Machine to Electronic Health Records for Cancer Classification</a></b><br> 
-<b>Xudong Zhang, Jiehao Xiao, and Feng Gu</b> <i>MSM 2019 </i>.<br>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
+<font color="#00C5CD">Applying Support Vector Machine to Electronic Health Records for Cancer Classification.</font> <br>
+<b>Xudong Zhang, Jiehao Xiao, and Feng Gu. </b> <i>MSM 2020 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732906">Paper</a>]
 <br clear="left">
 </p>
 
-
-
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2020.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
-
-<font color="#00C5CD">Handling the Missing Data Problem in Electronic Health Records for Cancer Prediction</font> <br>
+<font color="#00C5CD">Handling the Missing Data Problem in Electronic Health Records for Cancer Prediction.</font> <br>
 <b>Xudong Zhang, Jiehao Xiao, and Feng Gu. </b> <i>MSM 2020 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/9185464">Paper</a>]
 <br clear="left">
