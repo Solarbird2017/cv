@@ -93,7 +93,7 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 </p>
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="42px" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="42px" align="left" width="100" height="300"/>
 <font color="#00C5CD">Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters.</font> <br>
 <b>Xudong Zhang and Feng Gu. </b> <i>HPC 2019 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
