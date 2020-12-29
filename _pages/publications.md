@@ -53,7 +53,8 @@ Ioana Voiculescu. </b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
-<font color="#00C5CD">Adaptive Particle Routing in Parallel/Distributed Particle Filters.</font> <br>
+<font color="#00C5CD">Heuristic Search for Homology Localization Problem and Its Application in
+Cardiac Trabeculae Reconstruction.</font> <br>
 <b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen. </b> <i>IJCAI 2019 </i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
 <br clear="left">
