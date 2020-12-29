@@ -81,14 +81,13 @@ Ioana Voiculescu.</b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)<
 <a href="">
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure" style="width: 200px;" hspace="62" align="left"/></a>
 <b><a href="">Performance Analysis of Parallel/Distributed Particle Filters</a></b><br> 
-<b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu</b> <i>TMS 2018 </i>.<br>
-[<a href="">Paper</a>]
+<b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu</b> <i>ICCES 2018 </i>.<br>
+[<a href="https://dl.acm.org/doi/10.1145/3213187.3213192">Paper</a>]
 <br clear="left">
 </p>
 
 
 <p>
-
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/></a>
 <b><a href="">Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters</a></b><br> 
 <b>Xudong Zhang and Feng Gu</b> <i>HPC 2019 </i>.<br>
