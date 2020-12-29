@@ -11,7 +11,7 @@ author_profile: true
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 200px;" hspace="24" align="left"/></a>
-<b>Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters (Accepted)</a></b><br> 
+<b><p style="color:rgb(255,0,0);">Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters (Accepted)</b><br> 
 <b>Xudong Zhang, Liang Zhao, Wei Zhong, and Feng Gu.</b> <i>IEEE Access (Impact Factor: 3.745)</i>.<br>
 [<a href="">Paper</a>]
 <br clear="left">
