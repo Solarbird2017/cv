@@ -9,5 +9,5 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Parallel Machine Learning"
+    url: /paraML/
