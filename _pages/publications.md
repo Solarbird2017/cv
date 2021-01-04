@@ -45,11 +45,13 @@ Ioana Voiculescu. </b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
-<font color="#00C5CD">(Under preparation) A leverage on real-time multi-object tracking.</font> <br>
-<b>Xudong Zhang, et. al. </b> <i>International Joint Conference on Artificial Intelligence (IJCAI) 2021 </i>.<br>
+<font color="#00C5CD"> A leverage on real-time multi-object tracking.</font> <br>
+<b>Xudong Zhang, et. al. </b> <i> (Under preparation) </i>.<br>
 [<a href="">Paper</a>]
 <br clear="left">
 </p>
+
+<!--International Joint Conference on Artificial Intelligence (IJCAI) 2021-->
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
