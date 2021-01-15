@@ -15,6 +15,8 @@ His recent research interests include (parallel) machine learning, computer visi
 
 
 <p></p>
+<p></p>
+
 
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
