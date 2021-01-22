@@ -47,7 +47,7 @@ Ioana Voiculescu. </b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
 <font color="#00C5CD"> A Hybrid Re-identification (ReID) Model for Real-time Tracking.</font> <br>
 <b>Xudong Zhang, et. al. </b> <i> (Under preparation) </i>.<br>
-[<a href="">Paper</a>]
+[<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo</a>]
 <br clear="left">
 </p>
 
