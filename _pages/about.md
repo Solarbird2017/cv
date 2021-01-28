@@ -28,7 +28,7 @@ High-performance Computing.
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 300px;" hspace="60" align="left"/>
 <font color="#00C5CD"> HTracker: A ReID-based one-stage tracking model.</font> <br>
-<b>Xudong Zhang, et. al. </b> <i> ICCV 2021</i>.<br>
+<b>Xudong Zhang, et. al. </b> <i> Under preparation</i>.<br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo</a>]
 <br clear="left">
 </p>
