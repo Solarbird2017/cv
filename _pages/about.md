@@ -21,7 +21,7 @@ High-performance Computing.
 
 
 
-# <i class="fa fa-fw fa-copy"></i> Publications #
+# <i class="fa fa-fw fa-copy"></i> Selected Publications #
 
 <!--## Journal Articles ##-->
 
