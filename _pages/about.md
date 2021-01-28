@@ -11,8 +11,8 @@ redirect_from:
 Xudong(Nick) Zhang is currently a Ph.D. candidate in the department of Computer Science of the Graduate Center of the City University of New York. He received his B.S. degrees in  Mechatronics Engineering from Jilin University. He obtained his Master degree in  Mechatronics Engineering from the City College of New York. 
 
 His recent research interests include:
-Large-scale and High-performance Machine Learning, Deep Learning, Computer Vision.
-Object tracking, and Image Segmentation and Reconstruction.
+Large-scale and High-performance Machine Learning, Deep Learning in
+Object tracking  and Image Segmentation and Reconstruction.
 Modeling (Machine Learning, ODE, PED, and Stochastics) and Simulation.
 High-performance Computing.
 
