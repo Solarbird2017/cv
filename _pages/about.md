@@ -26,7 +26,7 @@ High-performance Computing.
 <!--## Journal Articles ##-->
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 300px;" hspace="60" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 300px; hspace=60" align="left"/>
 <font color="#00C5CD"> HTracker: A ReID-based one-stage tracking model.</font> <br>
 <b>Xudong Zhang</b> , et. al.  <i> Under preparation</i>.<br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo</a>]
