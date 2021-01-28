@@ -35,7 +35,7 @@ High-performance Computing.
 
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 300px; hspace=60" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 300px; hspace=70" align="left"/>
 <font color="#00C5CD"> Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters.</font> <br>
 <b>Xudong Zhang </b>, Liang Zhao, Wei Zhong, and Feng Gu.  <br>
 <i>IEEE Access (Impact Factor: 3.745).  </i>
@@ -44,7 +44,7 @@ High-performance Computing.
 </p>
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 300px; hspace=60" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 300px; hspace=670" align="left"/>
 <font color="#00C5CD">Heuristic Search for Homology Localization Problem and Its Application in
 Cardiac Trabeculae Reconstruction.</font> <br>
 <b>Xudong Zhang </b>, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen. <i>International Joint Conference on Artificial Intelligence (IJCAI) 2019 </i>.
