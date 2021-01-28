@@ -37,7 +37,7 @@ High-performance Computing.
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 300px; hspace=60" align="left"/>
 <font color="#00C5CD">Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang, Liang Zhao, Wei Zhong, and Feng Gu. </b> <i>IEEE Access (Impact Factor: 3.745)  </i>.<br>
+<b>Xudong Zhang </b>, Liang Zhao, Wei Zhong, and Feng Gu.  <i>IEEE Access (Impact Factor: 3.745)  </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/9311256">Paper</a>]
 <br clear="left">
 </p>
@@ -46,7 +46,7 @@ High-performance Computing.
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 300px;" hspace="60" align="left"/>
 <font color="#00C5CD">Heuristic Search for Homology Localization Problem and Its Application in
 Cardiac Trabeculae Reconstruction.</font> <br>
-<b>Xudong Zhang, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen. </b> <i>International Joint Conference on Artificial Intelligence (IJCAI) 2019 </i>.<br>
+<b>Xudong Zhang </b>, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen. <i>International Joint Conference on Artificial Intelligence (IJCAI) 2019 </i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
 <br clear="left">
 </p>
@@ -54,8 +54,8 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 300px; hspace= 78" align="left"/>
 <font color="#00C5CD">The Influence of The Electrode Dimension on The Detection Sensitivity of Electric Cell–substrate Impedance Sensing (ECIS) and Its Mathematical Modeling.</font> <br>
-<b>Xudong Zhang, William Wang, Anis Nurashikin Nordin, Fang Li, Sunghoon Jang, and
-Ioana Voiculescu. </b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)  </i>.<br>
+<b>Xudong Zhang </b>, William Wang, Anis Nurashikin Nordin, Fang Li, Sunghoon Jang, and
+Ioana Voiculescu.  <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)  </i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]
 <br clear="left">
 </p>
@@ -63,7 +63,7 @@ Ioana Voiculescu. </b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 200px;" hspace="32" align="left"/>
 <font color="#00C5CD">Stretchable Impedance Sensor for Mammalian Cell Proliferation Measurements.</font> <br>
-<b>Xudong Zhang, William Wang, Fang Li, and Ioana Voiculescu. </b> <i>Lab on a Chip (Impact Factor: 6.914)  </i>.<br>
+<b>Xudong Zhang </b>, William Wang, Fang Li, and Ioana Voiculescu.  <i>Lab on a Chip (Impact Factor: 6.914)  </i>.<br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Paper</a>]
 <br clear="left">
 </p>
