@@ -29,7 +29,8 @@ High-performance Computing.
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>
 <font color="#00C5CD"> A ReID-based one-stage tracking model.</font> <br>
 <b>Xudong Zhang</b> , et. al.  <i> Under preparation</i>.<br>
-[<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo</a>]
+[<a href="https://motchallenge.net/results/MOT17/">Ranking on Public MOT challenge</a>]
+[<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]
 <br clear="left">
 </p>
 
