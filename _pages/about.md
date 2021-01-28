@@ -26,7 +26,7 @@ High-performance Computing.
 <!--## Journal Articles ##-->
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style=" width: 300 px ; height: 200 px " align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>
 <font color="#00C5CD"> A ReID-based one-stage tracking model.</font> <br>
 <b>Xudong Zhang</b> , et. al.  <i> Under preparation</i>.<br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo</a>]
@@ -60,31 +60,14 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <br clear="left">
 </p>
 
-<p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 300px; hspace=78" align="left"/>
-<font color="#00C5CD">Stretchable Impedance Sensor for Mammalian Cell Proliferation Measurements.</font> <br>
-<b>Xudong Zhang </b>, William Wang, Fang Li, and Ioana Voiculescu.  <i>Lab on a Chip (Impact Factor: 6.914)  </i>.<br>
-[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Paper</a>]
-<br clear="left">
-</p>
-
-
-
-
-
 
 <!--## Conference Papers ##-->
-
-
-
-
-
 
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2019.png?raw=true" alt="Figure" style="width: 300px; hspace=78" align="left"/>
 <font color="#00C5CD">Applying Support Vector Machine to Electronic Health Records for Cancer Classification.</font> <br>
-<b>Xudong Zhang, Jiehao Xiao, and Feng Gu. </b> <i>MSM 2019 </i>.<br>
+<b>Xudong Zhang </b>, Jiehao Xiao, and Feng Gu.  <i>MSM 2019 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732906">Paper</a>]
 <br clear="left">
 </p>
@@ -92,7 +75,7 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/msm2020.png?raw=true" alt="Figure" style="width: 300px; hspace=78 " align="left"/>
 <font color="#00C5CD">Handling the Missing Data Problem in Electronic Health Records for Cancer Prediction.</font> <br>
-<b>Xudong Zhang, Jiehao Xiao, and Feng Gu. </b> <i>MSM 2020 </i>.<br>
+<b>Xudong Zhang </b>, Jiehao Xiao, and Feng Gu.  <i>MSM 2020 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/9185464">Paper</a>]
 <br clear="left">
 </p>
@@ -100,23 +83,30 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 300px; hspace= 78 " align="left"/>
 <font color="#00C5CD">Adaptive Particle Routing in Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang, Lixin Huang, Evan Ferguson-Hull, and Feng Gu. </b> <i>HPC 2017 </i>.<br>
+<b>Xudong Zhang </b>, Lixin Huang, Evan Ferguson-Hull, and Feng Gu.  <i>HPC 2017 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
 <br clear="left">
 </p>
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure"  align="left" style="width: 350px;height: 64px" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure"  align="left" width="320px" height="80px" align="left"/>
 <font color="#00C5CD">Performance Analysis of Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang, Ali Mohamed, Linda Nguyen, and Feng Gu. </b> <i>ICCES 2018 </i>.<br>
+<b>Xudong Zhang</b> , et al.  <i>ICCES 2018 </i>.<br>
 [<a href="https://dl.acm.org/doi/10.1145/3213187.3213192">Paper</a>]
 <br clear="left">
 </p>
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" style="width: 390px;height: 164px" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" width="296px" height="150px" align="left"/>
 <font color="#00C5CD">Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang and Feng Gu. </b> <i>HPC 2019 </i>.<br>
+<b>Xudong Zhang </b> and Feng Gu.  <i>HPC 2019 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
+<br clear="left">
+</p>
+<p>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 300px; hspace=78" align="left"/>
+<font color="#00C5CD">Stretchable Impedance Sensor for Mammalian Cell Proliferation Measurements.</font> <br>
+<b>Xudong Zhang </b>, William Wang, Fang Li, and Ioana Voiculescu.  <i>Lab on a Chip (Impact Factor: 6.914)  </i>.<br>
+[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/labonachip.pdf">Paper</a>]
 <br clear="left">
 </p>
