@@ -28,7 +28,7 @@ High-performance Computing.
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" style="width: 300px;" hspace="60" align="left"/>
 <font color="#00C5CD"> HTracker: A ReID-based one-stage tracking model.</font> <br>
-<b>Xudong Zhang, et. al. </b> <i> (Under preparation) </i>.<br>
+<b>Xudong Zhang, et. al. </b> <i> ICCV 2021</i>.<br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo</a>]
 <br clear="left">
 </p>
@@ -77,7 +77,7 @@ Ioana Voiculescu. </b> <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)
 
 
 
-<!--International Joint Conference on Artificial Intelligence (IJCAI) 2021-->
+
 
 
 
