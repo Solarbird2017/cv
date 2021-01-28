@@ -90,7 +90,7 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 </p>
 
 <p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure"  align="left" width="320px" height="80px" align="left"/>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure"  align="left" width="320px" height="90px" align="left"/>
 <font color="#00C5CD">Performance Analysis of Parallel/Distributed Particle Filters.</font> <br>
 <b>Xudong Zhang</b> , et al.  <i>ICCES 2018 </i>.<br>
 [<a href="https://dl.acm.org/doi/10.1145/3213187.3213192">Paper</a>]
