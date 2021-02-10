@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Xudong(Nick) Zhang is currently a Ph.D. candidate in the department of Computer Science of the Graduate Center of the City University of New York. He received his B.S. degrees in  Mechatronics Engineering from Jilin University. He obtained his Master degree in  Mechatronics Engineering from the City College of New York. 
+Xudong(Nick) Zhang is currently a Ph.D. candidate in the department of Computer Science of the Graduate Center of the City University of New York. He obtained his Master degree in Computer Science from the Graduate Center of CUNY. He received his B.S. degrees in  Mechatronics Engineering from Jilin University. 
+
 
 His recent research interests include:
 Large-scale and High-performance Machine Learning, Deep Learning in
-Object tracking  and Image Segmentation and Reconstruction.
-Modeling (Machine Learning, ODE, PED, and Stochastics) and Simulation.
+Object tracking,  and Image Segmentation and Reconstruction.
+(Differential Equation, and Stochastics) Modeling and Simulation.
 High-performance Computing.
 
 <p></p>
@@ -27,8 +28,8 @@ High-performance Computing.
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>
-<font color="#00C5CD"> A ReID-based one-stage tracking model.</font> <br>
-<b>Xudong Zhang</b> , et. al.  <i> Under preparation</i>.<br>
+<font color="#00C5CD"> Boosting the Speed of Real-Time Multi-Object Trackers. </font> <br>
+<b>Xudong Zhang</b> , et. al.  <i>International Joint Conference on Neural Network. Submitted</i>.<br>
 [<a href="https://motchallenge.net/results/MOT17/">Ranking on Public MOT challenge</a>] <br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]
 <br clear="left">
