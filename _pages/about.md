@@ -34,33 +34,8 @@ redirect_from:
 
 
 
-<!--<p>-->
-<!--<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>-->
-<!--<font color="#00C5CD"> Boosting the Speed of Real-Time Multi-Object Trackers. </font> <br>-->
-<!--<b>Xudong Zhang</b> , et. al.  <i>International Joint Conference on Neural Network. Submitted</i>.<br>-->
-<!--[<a href="https://motchallenge.net/results/MOT17/">Ranking on Public MOT challenge</a>] <br>-->
-<!--[<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]-->
-<!--<br clear="left">-->
-<!--</p>-->
 
 
-
-<video width="320" height="240" controls autoplay>
-<!--<source src="http://Solarbird2017.github.io/xudongzhang.github.io/images/movie.ogg" type="video/ogg">-->
-<embed src="https://www.youtube.com/embed/N4koEPJ0bjU" allowfullscreen="true" width="320" height="240">
-<!--<source src="movie.mp4" type="video/mp4">-->
-<!--<source src="movie.webm" type="video/webm">-->
-<!--<object data="movie.mp4" width="320" height="240">-->
-<!--<embed width="320" height="240" src="movie.swf">-->
-</object>
-</video>
-
-
-<video width="320" height="240" controls>
-<source src="/assets_tutorials/media/Shaun-the-Sheep-The-Movie-Official-Trailer.mp4" type="video/mp4">
-<source src="/assets_tutorials/media/Shaun-the-Sheep-The-Movie-Official-Trailer.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
 
 
 
