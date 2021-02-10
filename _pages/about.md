@@ -27,7 +27,7 @@ redirect_from:
 
 
 
-# <i class="fa fa-fw fa-copy"></i> Selected Publications #
+<!--# <i class="fa fa-fw fa-copy"></i> Selected Publications #-->
 
 <h1><font face="verdana" size="5"> Selected Publications </font></h1>
 
