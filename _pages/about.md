@@ -74,7 +74,7 @@ redirect_from:
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 300px; hspace=70" align="left"/>
 <font color="#00C5CD">Heuristic Search for Homology Localization Problem and Its Application in
 Cardiac Trabeculae Reconstruction.</font> <br>
-<b>Xudong Zhang </b>, Pengxiang Wu, Changhe Yuan, Yusu Wang, Dimitris Metaxas, and Chao Chen. <i>International Joint Conference on Artificial Intelligence (IJCAI) 2019 </i>.
+<b>Xudong Zhang </b>, Pengxiang Wu, Dimitris Metaxas, and Chao Chen. <i>International Joint Conference on Artificial Intelligence (IJCAI) 2019 </i>.
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/ijcai_2019.pdf">Paper</a>]
 <br clear="left">
 </p>
