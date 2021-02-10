@@ -21,6 +21,18 @@ High-performance Computing.
 <p></p>
 
 
+<h1><font face="verdana" size="5">About me</font></h1>
+<p><font size="3" face="arial" color="black">Xudong(Nick) Zhang is currently a Ph.D. candidate in the department of Computer Science of the Graduate Center of the City University of New York. He obtained his Master degree in Computer Science from the Graduate Center of CUNY. He received his B.S. degrees in  Mechatronics Engineering from Jilin University.</font></p>
+
+<p><font size="3" face="arial" color="black">His recent research interests include: <br /> 
+Large-scale and High-performance Machine Learning.<br /> Deep Learning in
+Object tracking,  and Image Segmentation and Reconstruction.<br />
+(Differential Equation, and Stochastics) Modeling and Simulation.<br />
+High-performance Computing.</font></p>
+
+
+
+
 
 # <i class="fa fa-fw fa-copy"></i> Selected Publications #
 
