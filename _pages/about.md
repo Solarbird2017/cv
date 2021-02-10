@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Xudong(Nick) Zhang is currently a Ph.D. candidate in the department of Computer Science of the Graduate Center of the City University of New York. He obtained his Master degree in Computer Science from the Graduate Center of CUNY. He received his B.S. degrees in  Mechatronics Engineering from Jilin University. 
+<!--Xudong(Nick) Zhang is currently a Ph.D. candidate in the department of Computer Science of the Graduate Center of the City University of New York. He obtained his Master degree in Computer Science from the Graduate Center of CUNY. He received his B.S. degrees in  Mechatronics Engineering from Jilin University. -->
+<!---->
+<!---->
+<!--His recent research interests include:-->
+<!--Large-scale and High-performance Machine Learning, Deep Learning in-->
+<!--Object tracking,  and Image Segmentation and Reconstruction.-->
+<!--(Differential Equation, and Stochastics) Modeling and Simulation.-->
+<!--High-performance Computing.-->
 
 
-His recent research interests include:
-Large-scale and High-performance Machine Learning, Deep Learning in
-Object tracking,  and Image Segmentation and Reconstruction.
-(Differential Equation, and Stochastics) Modeling and Simulation.
-High-performance Computing.
-
-<p></p>
-<p></p>
 
 
 <h1><font face="verdana" size="5">About me</font></h1>
@@ -30,7 +29,8 @@ Object tracking,  and Image Segmentation and Reconstruction.<br />
 (Differential Equation, and Stochastics) Modeling and Simulation.<br />
 High-performance Computing.</font></p>
 
-
+<p></p>
+<p></p>
 
 
 
