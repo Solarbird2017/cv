@@ -46,13 +46,20 @@ redirect_from:
 
 
 <video width="320" height="240" controls autoplay>
-<source src="http://Solarbird2017.github.io/xudongzhang.github.io/images/movie.ogg" type="video/ogg">
+<!--<source src="http://Solarbird2017.github.io/xudongzhang.github.io/images/movie.ogg" type="video/ogg">-->
 <embed src="https://www.youtube.com/embed/N4koEPJ0bjU" allowfullscreen="true" width="320" height="240">
 <!--<source src="movie.mp4" type="video/mp4">-->
 <!--<source src="movie.webm" type="video/webm">-->
 <!--<object data="movie.mp4" width="320" height="240">-->
 <!--<embed width="320" height="240" src="movie.swf">-->
 </object>
+</video>
+
+
+<video width="320" height="240" controls>
+<source src="/assets_tutorials/media/Shaun-the-Sheep-The-Movie-Official-Trailer.mp4" type="video/mp4">
+<source src="/assets_tutorials/media/Shaun-the-Sheep-The-Movie-Official-Trailer.ogg" type="video/ogg">
+Your browser does not support the video tag.
 </video>
 
 
