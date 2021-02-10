@@ -107,13 +107,13 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <br clear="left">
 </p>
 
-<p>
-<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 300px; hspace= 78 " align="left"/>
-<font color="#00C5CD">Adaptive Particle Routing in Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang </b>, Lixin Huang, Evan Ferguson-Hull, and Feng Gu.  <i>HPC 2017 </i>.<br>
-[<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
-<br clear="left">
-</p>
+<!--<p>-->
+<!--<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2017.png?raw=true" alt="Figure" style="width: 300px; hspace= 78 " align="left"/>-->
+<!--<font color="#00C5CD">Adaptive Particle Routing in Parallel/Distributed Particle Filters.</font> <br>-->
+<!--<b>Xudong Zhang </b>, Lixin Huang, Evan Ferguson-Hull, and Feng Gu.  <i>HPC 2017 </i>.<br>-->
+<!--[<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]-->
+<!--<br clear="left">-->
+<!--</p>-->
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure"  align="left" width="320px" height="90px" align="left"/>
@@ -126,10 +126,11 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/hpc2019.png?raw=true" alt="Figure" width="296px" height="150px" align="left"/>
 <font color="#00C5CD">Adaptive Particle Sampling and Resampling in Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang </b> and Feng Gu.  <i>HPC 2019 </i>.<br>
+<b>Xudong Zhang </b> and Feng Gu.  <i>High Performance Computing (HPC) 2019 </i>.<br>
 [<a href="https://ieeexplore.ieee.org/document/8732902">Paper</a>]
 <br clear="left">
 </p>
+
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 300px; hspace=78" align="left"/>
 <font color="#00C5CD">Stretchable Impedance Sensor for Mammalian Cell Proliferation Measurements.</font> <br>
