@@ -29,7 +29,9 @@ redirect_from:
 
 # <i class="fa fa-fw fa-copy"></i> Selected Publications #
 
-<!--## Journal Articles ##-->
+<h1><font face="verdana" size="5"> Selected Publications </font></h1>
+
+
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>
