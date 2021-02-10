@@ -53,7 +53,7 @@ redirect_from:
 <font  font size="2">[<a href="https://motchallenge.net/results/MOT17/">Ranking on Public MOT challenge</a>] <br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]
 <br clear="left">
-</p>
+
 
 
 
