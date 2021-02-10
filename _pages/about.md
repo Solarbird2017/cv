@@ -45,6 +45,19 @@ redirect_from:
 
 
 
+<video width="320" height="240" controls autoplay>
+<source src="http://Solarbird2017.github.io/xudongzhang.github.io/images/movie.ogg" type="video/ogg">
+<!--<source src="movie.mp4" type="video/mp4">-->
+<!--<source src="movie.webm" type="video/webm">-->
+<!--<object data="movie.mp4" width="320" height="240">-->
+<!--<embed width="320" height="240" src="movie.swf">-->
+</object>
+</video>
+
+
+
+
+
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>
 <font color="#00C5CD" font size="2"> Boosting the Speed of Real-Time Multi-Object Trackers. </font> <br>
