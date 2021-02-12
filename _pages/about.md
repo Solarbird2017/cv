@@ -34,25 +34,18 @@ redirect_from:
 
 
 
-
-
-
-
-
-
-
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/mot.png?raw=true" alt="Figure" width="296px" height="190px" align="left"/>
 <font color="#00C5CD" font size="2"> Boosting the Speed of Real-Time Multi-Object Trackers. </font> <br>
 
 <font  font size="2"><b>Xudong Zhang</b> , et. al.  <i>International Joint Conference on Neural Network. Submitted.  <br>
-<font  font size="2">[<a href="https://motchallenge.net/results/MOT17/">Ranking on Public MOT challenge</a>] <br>
+<font  font size="2">[<a href="https://motchallenge.net/results/MOT17/">Ranking 4th on Public MOT challenge</a>] <br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]
 <br clear="left">
 
 
 
-
+<br />
 
 
 
@@ -66,6 +59,11 @@ redirect_from:
 <br clear="left">
 </p>
 
+
+<br />
+
+
+
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ijcai.png?raw=true" alt="Figure" style="width: 300px; hspace=70" align="left"/>
 <font color="#00C5CD">Heuristic Search for Homology Localization Problem and Its Application in
@@ -75,6 +73,11 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 <br clear="left">
 </p>
 
+
+<br />
+
+
+
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model_equations.png?raw=true" alt="Figure" style="width: 300px; hspace= 78" align="left"/>
 <font color="#00C5CD">The Influence of The Electrode Dimension on The Detection Sensitivity of Electric Cell–substrate Impedance Sensing (ECIS) and Its Mathematical Modeling.</font> <br>
@@ -82,6 +85,12 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 [<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]
 <br clear="left">
 </p>
+
+
+
+<br />
+
+
 
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/tms2018.png?raw=true" alt="Figure"  style="width: 300px; hspace= 78 " align="left"/>
