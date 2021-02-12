@@ -44,7 +44,7 @@ redirect_from:
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]
 <br clear="left">
 
-</p>
+
 
 
 
@@ -53,8 +53,8 @@ redirect_from:
 <p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/ieeeaccess.png?raw=true" alt="Figure" style="width: 300px; hspace=70" align="left"/>
 <font color="#00C5CD"> Performance Analysis of Resampling Algorithms of Parallel/Distributed Particle Filters.</font> <br>
-<b>Xudong Zhang </b>, Liang Zhao, Wei Zhong, and Feng Gu.  <br>
-<i>IEEE Access (Impact Factor: 3.745).  </i>
+
+<b>Xudong Zhang </b>, Liang Zhao, Wei Zhong, and Feng Gu.  <br> <i>IEEE Access (Impact Factor: 3.745).  </i>
 [<a href="https://ieeexplore.ieee.org/document/9311256">Paper</a>]
 <br clear="left">
 </p>
