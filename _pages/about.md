@@ -88,7 +88,6 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 
 
 
-<br />
 
 
 
