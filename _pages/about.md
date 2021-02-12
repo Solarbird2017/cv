@@ -24,8 +24,8 @@ redirect_from:
 3. (Differential Equation and Stochastics) Modeling and Simulation.<br />
 4. High-performance Computing.</font></p>
 
-<p></p>
-<p></p>
+<!--<p></p>-->
+<!--<p></p>-->
 
 
 
@@ -45,7 +45,6 @@ redirect_from:
 
 
 
-<br />
 
 
 
