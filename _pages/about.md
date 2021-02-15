@@ -40,7 +40,7 @@ redirect_from:
 <font color="#00C5CD" font size="2"> Boosting the Speed of Real-Time Multi-Object Trackers. </font> <br>
 
 <font  font size="2"><b>Xudong Zhang</b> , et. al.  <i>International Joint Conference on Neural Network. Submitted.  <br>
-<font  font size="2">[<a href="https://motchallenge.net/results/MOT17/">Ranking 4th on Public MOT challenge</a>] <br>
+<font  font size="2">[<a href="https://motchallenge.net/results/MOT17/">Ranking 2nd on Public MOT challenge</a>] <br>
 [<a href="https://motchallenge.net/method/MOT=3832&chl=10">Demo </a>]
 <br clear="left">
 
