@@ -135,6 +135,14 @@ Cardiac Trabeculae Reconstruction.</font> <br>
 </p>
 
 <p>
+<img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/model2.png?raw=true" alt="Figure" style="width: 300px; hspace= 78" align="left"/>
+<font color="#00C5CD">The Influence of The Electrode Dimension on The Detection Sensitivity of Electric Cell–substrate Impedance Sensing (ECIS) and Its Mathematical Modeling.</font> <br>
+<b>Xudong Zhang </b>, et al.  <i>Sensors and Actuators B: Chemical (Impact Factor: 7.1)  </i>.<br>
+[<a href="http://Solarbird2017.github.io/xudongzhang.github.io/files/model_2017.pdf">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="http://Solarbird2017.github.io/xudongzhang.github.io/images/labonachip.png?raw=true" alt="Figure" style="width: 300px; hspace=78" align="left"/>
 <font color="#00C5CD">Stretchable Impedance Sensor for Mammalian Cell Proliferation Measurements.</font> <br>
 <b>Xudong Zhang </b>, William Wang, Fang Li, and Ioana Voiculescu.  <i>Lab on a Chip (Impact Factor: 6.914)  </i>.<br>
